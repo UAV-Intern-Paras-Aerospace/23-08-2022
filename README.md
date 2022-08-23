@@ -1,1 +1,1 @@
-# 23-08-2022
+Successfully configured drone with back cube , unsuccessfull 2 test flights 
