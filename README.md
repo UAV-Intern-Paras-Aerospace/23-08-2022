@@ -1,1 +1,1 @@
-Successfully configured drone with back cube , unsuccessfull 2 test flights 
+Successfully configured drone with cube black , unsuccessfull 2 test flights 
